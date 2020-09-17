@@ -1,6 +1,6 @@
 **Hi there, I'm **Loveth Oballe** 👋**
 
-![](/images/myFile.gif)
+                                                                                     ![](/images/myFile.gif)
 
 
 # About me!!
