@@ -1,4 +1,4 @@
-Hi there, I'm Loveth Oballe 👋
+**Hi there, I'm **Loveth Oballe** 👋**
 
 ![](/images/myFile.gif)
 
