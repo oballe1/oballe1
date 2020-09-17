@@ -3,7 +3,8 @@ Hi there, I'm Loveth Oballe 👋
 ![](/images/myFile.gif)
 
 
-I'm Curious about Information Technology,Ex-linux admin, DevOps Engineer, and Tutor!!
+# About me!!
+I'm Curious about Information Technology,Ex-linux admin, DevOps Engineer!!
 
 - 🔭 I’m currently working on a Secrets Management project will keep you updated in the upcoming weeks :)
 - 🌱 I’m currently learning everything !!
