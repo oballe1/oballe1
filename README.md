@@ -1,6 +1,6 @@
 Hi there, I'm Loveth Oballe 👋
 
-![](/oballe1/images/myFile.gif)
+![](/images/myFile.gif)
 
 
 I'm Curious about Information Technology,Ex-linux admin, DevOps Engineer, and Tutor!!
